@@ -11,7 +11,7 @@ liste.append(int(input("İlk sayıyı giriniz : ")))
 liste.append(int(input("İkinci sayıyı giriniz : ")))
 liste.append(int(input("Üçüncü sayıyı giriniz : ")))
 
-listeSırali = liste
+listeSirali = liste
 
 print("Giridiğiniz sayılar\n"
       "ilk sayı = {}\n"
